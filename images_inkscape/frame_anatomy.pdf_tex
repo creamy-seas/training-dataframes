@@ -1,0 +1,102 @@
+%% Creator: Inkscape inkscape 0.92.2, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'frame_anatomy.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{3080.27396549bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.55565745)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{frame_anatomy.pdf}}%
+    \put(0.30681709,0.47451332){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{frame_anatomy.pdf}}%
+    \put(0.30681709,0.42519293){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{frame_anatomy.pdf}}%
+    \put(0.30681709,0.37587254){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{frame_anatomy.pdf}}%
+    \put(0.30681709,0.32655215){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{3\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{frame_anatomy.pdf}}%
+    \put(0.36272089,0.52661716){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Brand\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{frame_anatomy.pdf}}%
+    \put(0.42635272,0.52768849){\color[rgb]{0,0,1}\makebox(0,0)[lb]{\smash{Description\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{frame_anatomy.pdf}}%
+    \put(0.50938543,0.52768848){\color[rgb]{1,0,0}\makebox(0,0)[lb]{\smash{Part_Number\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{frame_anatomy.pdf}}%
+    \put(0.77856056,0.35925727){\color[rgb]{1,0,0}\makebox(0,0)[lb]{\smash{Part_Number\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{frame_anatomy.pdf}}%
+    \put(0.12955382,0.21769538){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Brand\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{frame_anatomy.pdf}}%
+    \put(0.49452851,0.21876671){\color[rgb]{0,0,1}\makebox(0,0)[lb]{\smash{Description\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{frame_anatomy.pdf}}%
+    \put(0.07365002,0.16559154){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{frame_anatomy.pdf}}%
+    \put(0.07365002,0.11627115){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{frame_anatomy.pdf}}%
+    \put(0.07365002,0.06695076){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{frame_anatomy.pdf}}%
+    \put(0.07365002,0.01763037){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{3\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{frame_anatomy.pdf}}%
+    \put(0.45789186,0.16559154){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{frame_anatomy.pdf}}%
+    \put(0.45789186,0.11627115){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{frame_anatomy.pdf}}%
+    \put(0.45789186,0.06695076){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{frame_anatomy.pdf}}%
+    \put(0.45789186,0.01763037){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{3\\ }}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{frame_anatomy.pdf}}%
+    \put(0.74297791,0.30700235){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1\\ }}}%
+    \put(-0.00127183,0.25534324){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{DataFrame['Brand']}}}%
+    \put(0.39804329,0.25534324){\color[rgb]{0,0,1}\makebox(0,0)[lb]{\smash{DataFrame['Description']}}}%
+    \put(0.68397452,0.39583377){\color[rgb]{1,0,0}\makebox(0,0)[lb]{\smash{DataFrame['Part_number'][1]}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{frame_anatomy.pdf}}%
+    \put(1.58728623,-0.79114976){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.77301654\unitlength}\raggedright \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{frame_anatomy.pdf}}%
+    \put(0.68988166,0.52955864){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{}}}%
+    \put(0.7014181,0.52258269){\color[rgb]{0,1,0}\makebox(0,0)[lb]{\smash{Axis=1}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{frame_anatomy.pdf}}%
+    \put(0.28072489,0.18394618){\color[rgb]{0,1,0}\makebox(0,0)[lb]{\smash{Axis=0}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{frame_anatomy.pdf}}%
+  \end{picture}%
+\endgroup%
